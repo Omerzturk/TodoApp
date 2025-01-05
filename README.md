@@ -40,16 +40,17 @@ Bu uygulamayı kendi cihazınızda çalıştırmak için aşağıdaki adımları
 Uygulamaya ait ekran görüntüleri:  
 
 ### Açık Tema  
-![Açık Tema 1](./lib/images/light_theme_1.png)  
-![Açık Tema 2](./lib/images/light_theme_2.png)  
-![Açık Tema 3](./lib/images/light_theme_3.png)  
-![Açık Tema 4](./lib/images/light_theme_4.png)  
+![Açık Tema 1](./lib/images/light_theme_1.png =300x)  
+![Açık Tema 2](./lib/images/light_theme_2.png =300x)  
+![Açık Tema 3](./lib/images/light_theme_3.png =300x)  
+![Açık Tema 4](./lib/images/light_theme_4.png =300x)  
 
 ### Koyu Tema  
-![Koyu Tema 1](./lib/images/dark_theme_1.png)  
-![Koyu Tema 2](./lib/images/dark_theme_2.png)  
-![Koyu Tema 3](./lib/images/dark_theme_3.png)  
-![Koyu Tema 4](./lib/images/dark_theme_4.png) 
+![Koyu Tema 1](./lib/images/dark_theme_1.png =300x)  
+![Koyu Tema 2](./lib/images/dark_theme_2.png =300x)  
+![Koyu Tema 3](./lib/images/dark_theme_3.png =300x)  
+![Koyu Tema 4](./lib/images/dark_theme_4.png =300x)
+
 
 ## Gelecek Güncellemeler  
 Bu projeye eklemeyi planladığım özellikler:  
