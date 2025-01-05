@@ -39,14 +39,17 @@ Bu uygulamayı kendi cihazınızda çalıştırmak için aşağıdaki adımları
 ## Uygulama Görselleri  
 Uygulamaya ait ekran görüntüleri:  
 
-### Açık Mod  
-![Açık Mod](link_to_screenshot_light_mode)  
+### Açık Tema  
+![Açık Tema 1](./images/light_theme_1.png)  
+![Açık Tema 2](./images/light_theme_2.png)  
+![Açık Tema 3](./images/light_theme_3.png)  
+![Açık Tema 4](./images/light_theme_4.png)  
 
-### Koyu Mod  
-![Koyu Mod](link_to_screenshot_dark_mode)  
-
-### Görev Ekleme  
-![Görev Ekleme](link_to_screenshot_add_task)  
+### Koyu Tema  
+![Koyu Tema 1](./images/dark_theme_1.png)  
+![Koyu Tema 2](./images/dark_theme_2.png)  
+![Koyu Tema 3](./images/dark_theme_3.png)  
+![Koyu Tema 4](./images/dark_theme_4.png) 
 
 ## Gelecek Güncellemeler  
 Bu projeye eklemeyi planladığım özellikler:  
