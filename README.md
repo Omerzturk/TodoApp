@@ -40,16 +40,16 @@ Bu uygulamayı kendi cihazınızda çalıştırmak için aşağıdaki adımları
 Uygulamaya ait ekran görüntüleri:  
 
 ### Açık Tema  
-![Açık Tema 1](./lib/images/light_theme_1.png =300x)  
-![Açık Tema 2](./lib/images/light_theme_2.png =300x)  
-![Açık Tema 3](./lib/images/light_theme_3.png =300x)  
-![Açık Tema 4](./lib/images/light_theme_4.png =300x)  
+<img src="./lib/images/light_theme_1.png" width="300">  
+<img src="./lib/images/light_theme_2.png" width="300">  
+<img src="./lib/images/light_theme_3.png" width="300">  
+<img src="./lib/images/light_theme_4.png" width="300">  
 
 ### Koyu Tema  
-![Koyu Tema 1](./lib/images/dark_theme_1.png =300x)  
-![Koyu Tema 2](./lib/images/dark_theme_2.png =300x)  
-![Koyu Tema 3](./lib/images/dark_theme_3.png =300x)  
-![Koyu Tema 4](./lib/images/dark_theme_4.png =300x)
+<img src="./lib/images/dark_theme_1.png" width="300">  
+<img src="./lib/images/dark_theme_2.png" width="300">  
+<img src="./lib/images/dark_theme_3.png" width="300">  
+<img src="./lib/images/dark_theme_4.png" width="300">
 
 
 ## Gelecek Güncellemeler  
